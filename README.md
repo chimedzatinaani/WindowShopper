@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/images/logo.png" alt="WindowShopper Logo" width="220"/>
+  <img src="assets/images/logo_light.png" alt="WindowShopper Logo" width="220"/>
 </p>
 
 <h1 align="center">WindowShopper</h1>
