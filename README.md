@@ -58,7 +58,7 @@ Available now on **Android** and **iOS**.
 You're tired of visiting three stores only to find out the first one had the best price. WindowShopper shows you prices upfront so you can plan a smarter trip, save money, and get home faster.
 
 ### Store Owners
-You want more foot traffic and a way to show nearby customers what you stock and at what price. WindowShopper puts your store on the map — literally — and lets shoppers find you when they're actively looking to buy.
+You want more foot traffic and a way to show nearby customers what you stock and at what price. WindowShopper puts your store on the map and lets shoppers find you when they're actively looking to buy.
 
 ---
 
